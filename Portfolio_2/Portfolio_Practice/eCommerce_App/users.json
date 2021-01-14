@@ -1,0 +1,22 @@
+[
+  {
+    "email": "testing@help.com",
+    "password": "62b70db61ba0b81812b8381da935daafc3b787d8021dc620f4d1893c4572261c5030a6d7bee5ca44fa3ae5aeb78bbe3000485637edaf1f94da96a0fad635f96a.ec3a51df1847e263",
+    "id": "4c91fd6d"
+  },
+  {
+    "email": "hello@goodbye.com",
+    "password": "bc6ee96f13e1f9e11bb47ec1621fd7a4252e8cab3bb8952acc1e42e29073c2f53a74f212f4419742c65e6c06d426e9941d3f8a183086b7f30e2b2f1fa0c923a9.1e39868b879bdb32",
+    "id": "0471ff8a"
+  },
+  {
+    "email": "testers@testers.com",
+    "password": "e5a631de955d614f7d7717285c4eb3d2c3a36726cc2ca2496ab3d416aaceec543e0cf4e1fb3ed7564d0e5deb6094ad06f07b94ccca41021685f26913ef4e0432.b94eb6f6e7b0270e",
+    "id": "8f891633"
+  },
+  {
+    "email": "thursday@testers.com",
+    "password": "c04ad383a0197a1fcdf3d8b95643c681732bf9e5510a4643679df3eca5c216f78c25bccb9799ba6e69f99f4975698f329201e2e2fdb9860b6808588f01c89588.73464f7e12d69323",
+    "id": "f2c56f64"
+  }
+]
